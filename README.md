@@ -7,14 +7,14 @@ A collecton of tools for MaK.
 
 !!! Will expand it the future !!!
 
-### Requirements
+## Requirements
 
 python (tested on 3.11.9)
 
-#### Installation 
+## Installation 
 
-1. Download the required code
+### 1. Download the required code
 
-2. Install xlsxwriter packages
-    "pip install -r requirements.txt" or "pip     install xlsxwriter"
+### 2. Install xlsxwriter packages
+    >"pip install -r requirements.txt" or "pip     install xlsxwriter"
 
