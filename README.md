@@ -11,6 +11,14 @@ Website comming soon!
 
 https://astraxcz.github.io/MaK-Tools/
 
+### Replit
+Main tool is now available on replit
+#### Steps
+1. open link:
+>https://replit.com/@adamecjakub10/Mak-Tools?v=1
+2. run code
+3. Download .xlsx file form replit, but don't open it on replit or it will break.
+
 ## Requirements
 
 python (tested on 3.11.9)
